@@ -9,5 +9,9 @@ Peralta Ireijo, Sebastian Fernando - U201816030
 
 Costa Morales, Juan Josemaria  - U201822001
 ## Reporte
-<embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://issuu.com/sebasire/docs/ea_-_sem8" width="500" height="375">
+
+<object data="https://issuu.com/sebasire/docs/ea_-_sem8" type="application/pdf" width="700px" height="700px">
+    <embed src="https://issuu.com/sebasire/docs/ea_-_sem8">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://issuu.com/sebasire/docs/ea_-_sem8">Download PDF</a>.</p>
+    </embed>
+</object>
