@@ -1,8 +1,9 @@
 data<-read.csv("C:/admInfo/TA/hotel_bookings_miss.csv",header = TRUE,
                stringsAsFactors = FALSE)
 
-# Reemplazo de valores NA para variables categoricas de tipo character
 # definicion de formulas utilizadas al final del script 
+# Reemplazo de valores NA para variables categoricas de tipo character
+# random.df(df, columnas a limpiar
 data2 <- random.df(data, c(1,5,13,14,15,16,20,21,23,24,25,27,31,32))
 
 
