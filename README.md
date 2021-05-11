@@ -9,5 +9,4 @@ Peralta Ireijo, Sebastian Fernando - U201816030
 
 Costa Morales, Juan Josemaria  - U201822001
 ## Reporte
-
-[Documentación del desarrollo del proyecto en formato .pdf](https://github.com/SebsPER/ea-2021-1-cc51/blob/main/EA%20-%20Sem8.pdf)
+La documentación sobre el desarrollo y las conclusiones obtenidas estan en el siguiente enlace: [Reporte.pdf](https://github.com/SebsPER/ea-2021-1-cc51/blob/main/EA%20-%20Sem8.pdf)
