@@ -10,3 +10,5 @@ Peralta Ireijo, Sebastian Fernando - U201816030
 Costa Morales, Juan Josemaria  - U201822001
 ## Reporte
 
+<object data="EA - Sem8.pdf" type="application/pdf" width="100%"> 
+</object>
