@@ -6,3 +6,5 @@ El trabajo contenido en este repositorio de Github tiene como objetivo poner en 
 Chávez Arias, Bill Brandon - U20171C042
 Peralta Ireijo, Sebastian Fernando - U201816030
 Costa Morales, Juan Josemaria  - U201822001
+# Reporte
+<embed src="https://docs.google.com/document/d/15jr3mJCuIS6h7uJ4enBPIPzjpVFX1iC2EPB6vK2APHQ/edit?usp=sharing" type="application/pdf">
