@@ -1,4 +1,4 @@
-data<-read.csv("C:/admInfo/TA/hotel_bookings_miss.csv",header = TRUE, stringsAsFactors = FALSE)
+data<-read.csv("C:/Users/Juan/Desktop/UPC/Sexto Ciclo/AdminDeInfo/hotel_bookings.csv",header = TRUE, stringsAsFactors = FALSE)
 
 tablaEstacionamiento <- table(fix_outliers(data$required_car_parking_spaces))
 
