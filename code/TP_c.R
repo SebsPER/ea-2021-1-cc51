@@ -3,6 +3,7 @@ data<-read.csv("C:/admInfo/TA/hotel_bookings_miss.csv",header = TRUE,stringsAsFa
 Meses <- c('January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'October',
            'September', 'November', 'December')
 
+library(dplyr)
 freq <- count(data, arrival_date_month)
 row.names(freq) <- Meses 
 freq <- freq[match(Meses, freq$arrival_date_month),] #ordenar freq por mes
