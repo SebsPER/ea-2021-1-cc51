@@ -1,5 +1,5 @@
 library(dplyr)
-data <- read.csv("C:/Users/Juan/Desktop/UPC/Sexto Ciclo/AdminDeInfo/hotel_bookings.csv",na.string = "")
+data<-read.csv("C:/Users/Juan/Desktop/UPC/Sexto Ciclo/AdminDeInfo/hotel_bookings.csv",header = TRUE, stringsAsFactors = FALSE)
 
 meses <- c('January', 'February', 'March', 'April', 'May', 'June', 'July','August', 'October','September', 'November', 'December')
 
